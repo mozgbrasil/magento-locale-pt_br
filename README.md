@@ -10,6 +10,10 @@
 
 Pacote de traduçao pt_BR
 
+Toda a estrutura é baseada nos arquivos nativo en_US
+
+Foi aproveitada a tradução do pacote do MarioSam e para registros que não tinha tradução foi usado mecanismo para tradução automática
+
 ## Instalação - Atualização - Desinstalação
 
 Esta biblioteca destina-se a ser instalado usando o [Composer][getcomposer].
