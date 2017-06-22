@@ -12,7 +12,7 @@ Pacote de traduçao pt_BR
 
 Toda a estrutura é baseada nos arquivos nativo en_US
 
-Foi aproveitada a tradução do pacote do MarioSam e para registros que não tinha tradução foi usado mecanismo para tradução automática
+Foi aproveitada a tradução do pacote do MarioSam e para registros que não tinha tradução foi usado mecanismo para tradução automática onde foi processado 210 novos registros
 
 ## Instalação - Atualização - Desinstalação
 
