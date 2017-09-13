@@ -17,6 +17,14 @@ Toda a estrutura é baseada nos arquivos nativo en_US
 
 Foi aproveitada a tradução do pacote do MarioSam e para registros que não tinha tradução foi usado mecanismo para tradução automática onde foi processado 210 novos registros
 
+## Testando na Heroku
+
+Gostaria de apresentar o aplicativo que disponibilizei para a plataforma Heroku
+
+Com apenas 1 clique, o aplicativo cria sua loja virtual usando a plataforma de comércio eletrônico Magento e instala os módulos da MOZG
+
+[https://github.com/mozgbrasil/heroku-magento#descrição](https://github.com/mozgbrasil/heroku-magento#descrição)
+
 ## Instalação - Atualização - Desinstalação
 
 --
