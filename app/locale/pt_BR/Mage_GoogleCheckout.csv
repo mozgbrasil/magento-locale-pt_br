@@ -109,7 +109,7 @@
 "Rate 3 Ship To Applicable Countries","Taxa 3 Entrega para países selecionados"
 "Rate 3 Ship to Specific Countries","Taxa 3 Entrega para países específicos"
 "Rate 3 Title","Taxa 3 Título"
-"Required for live Google Checkout transactions.","Obrigatório para transações em tempo real do Google Checkout."
+"Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"").","Obrigatório para transações ao vivo no Google Checkout. Certifique-se de que esta opção corresponda a Usar URLs Seguros no Frontend (""Web""> ""Secure"")."
 "Residential","Residencial"
 "Sandbox","Ambiente de Teste"
 "Secure Callback URL","URL Segura de Retorno"

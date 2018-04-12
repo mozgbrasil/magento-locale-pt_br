@@ -1,11 +1,11 @@
 {
     "name": "mozgbrasil/magento-locale-pt_br",
     "description": "Arquivos de tradução",
-    "version": "1.0.0",
+    "version": "dev-master",
     "type": "magento-module",
     "keywords": ["cerebrum", "mozg", "magento", "locale"],
     "homepage": "http://mozg.com.br",
-    "time": "2017-05-18 19:48:24",
+    "time": "2018-04-12 16:06:40",
     "license":"OSL-3.0",
     "authors": [
         {
